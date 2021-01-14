@@ -2,6 +2,8 @@
 
 文档内容迭代更新中
 
+![Architecture](../images/arch.png "Architecture") 
+
 SDV Demo包括PC与PCU组成的集群，PC为一个，PCU为多个。PC侧主要用于显示、控制与交通流仿真，PCU侧主要用于车端模拟规划与控制功能。
 
 ## PC侧
