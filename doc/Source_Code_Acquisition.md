@@ -7,7 +7,7 @@
 -   [Source Code Directories](#source-code-directories)
 
 ## About SDV
-For SDV overview , please refer to [Overview](READ.md#overview)
+For SDV overview , please refer to [Overview](README.md#overview)
 
 ## When to Use
 
